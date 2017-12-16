@@ -1,0 +1,11 @@
+elpa/
+elpa/archives/
+ido.last
+.last
+.save
+auto-save-list/
+*.org
+url/
+.cache/
+rake.cache
+abbrev_defs

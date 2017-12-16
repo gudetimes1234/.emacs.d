@@ -1,0 +1,12 @@
+[submodule "themes/zenburn-emacs"]
+	path = themes/zenburn-emacs
+	url = git@github.com:bbatsov/zenburn-emacs.git
+[submodule "themes/dracula-theme"]
+	path = themes/dracula-theme
+	url = git@github.com:dracula/dracula-theme.git
+[submodule "moe-theme"]
+	path = themes/moe-theme.el
+	url = git@github.com:kuanyui/moe-theme.el.git
+[submodule "sublimity"]
+	path = lib/sublimity
+	url = git@github.com:zk-phi/sublimity.git
