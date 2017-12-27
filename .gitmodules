@@ -10,3 +10,6 @@
 [submodule "sublimity"]
 	path = lib/sublimity
 	url = git@github.com:zk-phi/sublimity.git
+[submodule "lib/writegood-mode"]
+	path = lib/writegood-mode
+	url = git://github.com/bnbeckwith/writegood-mode.git

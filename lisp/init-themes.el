@@ -1,0 +1,12 @@
+(add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
+;;(load-theme 'spacemacs-light t)
+;;(load-theme 'spacemacs-dark t)
+;;(load-theme 'zenburn t)
+(require 'moe-theme)
+(moe-dark)
+;;(moe-light)
+(setq moe-theme-highlight-buffer-id t)
+(moe-theme-set-color 'green)
+(powerline-moe-theme)
+
+(provide 'init-themes)

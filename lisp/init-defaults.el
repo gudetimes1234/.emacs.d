@@ -1,3 +1,5 @@
+(global-linum-mode t)
+
 (setq backup-directory-alist '(("." . "~/.saves")))
 (global-linum-mode t)
 (show-paren-mode t)
@@ -18,9 +20,4 @@
 (line-number-mode 1)
 (column-number-mode 1)
 
-(projectile-rails-global-mode)
-
-(require 'rbenv)
-(global-rbenv-mode)
-
-(provide 'setup-simple-settings)
+(provide 'init-defaults)

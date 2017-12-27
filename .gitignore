@@ -9,3 +9,7 @@ url/
 .cache/
 rake.cache
 abbrev_defs
+# Compiled
+*.elc
+*.elc
+smex-items
