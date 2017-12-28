@@ -14,7 +14,7 @@
  '(org-agenda-files (quote ("~/org/tasks.org" "~/org/notes.org")))
  '(package-selected-packages
    (quote
-    (cider discover gh elfeed sx yaml-mode org-bullets prettier-js robe rjsx-mode js2-mode tuareg flycheck-ocaml go-mode flymake-ruby sass-mode haml-mode ido-vertical-mode yasnippet web-mode use-package smex smartparens projectile prodigy popwin pallet nyan-mode multiple-cursors magit idle-highlight-mode htmlize flycheck-cask expand-region exec-path-from-shell drag-stuff)))
+    (company ac-inf-ruby cider discover gh elfeed sx yaml-mode org-bullets prettier-js robe rjsx-mode js2-mode tuareg flycheck-ocaml go-mode flymake-ruby sass-mode haml-mode ido-vertical-mode yasnippet web-mode use-package smex smartparens projectile prodigy popwin pallet nyan-mode multiple-cursors magit idle-highlight-mode htmlize flycheck-cask expand-region exec-path-from-shell drag-stuff)))
  '(sx-default-site "stackoverflow"))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
