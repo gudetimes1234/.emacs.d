@@ -13,3 +13,4 @@ abbrev_defs
 *.elc
 *.elc
 smex-items
+projectile-bookmarks.eld

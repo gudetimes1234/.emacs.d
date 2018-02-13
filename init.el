@@ -20,6 +20,8 @@
 (use-package init-ido :ensure nil)
 (use-package init-ruby :ensure nil)
 (use-package init-js :ensure nil)
+(use-package cider :ensure nil)
+(use-package init-elm :ensure nil)
 
 (use-package init-defaults :ensure nil)
 (use-package init-keybindings :ensure nil)
