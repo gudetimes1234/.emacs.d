@@ -14,3 +14,4 @@ abbrev_defs
 *.elc
 smex-items
 projectile-bookmarks.eld
+.sx
