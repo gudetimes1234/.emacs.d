@@ -1,0 +1,14 @@
+auto-save/
+auto-save-list/
+backups/
+eln-cache/
+elpa/
+transient/
+places
+recentf
+*.eln
+*.elc
+*.lock
+claude-code-context.json
+install-emacs30.sh
+.emacs.d.bak/
